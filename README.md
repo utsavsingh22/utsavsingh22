@@ -9,6 +9,9 @@
 
 - 👨‍💻 My Portfolio [https://utsavsingh69.github.io/utsavsingh/](https://utsavsingh69.github.io/utsavsingh/)
 
+-
+**[View my 2nd Portfolio made using CRA and deployed using Netlify](https://eager-tesla-7c5546.netlify.app/)**
+
 - 📫 How to reach me **utsavsingh62@gmail.com**
 
 
