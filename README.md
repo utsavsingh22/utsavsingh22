@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/iutsavsingh" target="blank"><img src="https://img.shields.io/twitter/follow/iutsavsingh?logo=twitter&style=for-the-badge" alt="iutsavsingh" /></a> </p>
 
 
-- 👨‍💻 My Portfolio [https://utsavsingh69.github.io/utsavsingh/](https://utsavsingh22.github.io/utsavsingh/)
+- 👨‍💻 My Portfolio [https://utsavsingh62.github.io/utsavsingh/](https://utsavsingh22.github.io/utsavsingh/)
 
 **[View my 2nd Portfolio made using CRA and deployed using Netlify](https://eager-tesla-7c5546.netlify.app/)**
 
@@ -28,8 +28,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utsavsingh69&show_icons=true&locale=en&layout=compact" alt="utsavsingh69" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utsavsingh22&show_icons=true&locale=en&layout=compact" alt="utsavsingh22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utsavsingh69&show_icons=true&locale=en" alt="utsavsingh69" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utsavsingh22&show_icons=true&locale=en" alt="utsavsingh22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utsavsingh69&" alt="utsavsingh69" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utsavsingh22&" alt="utsavsingh22" /></p>
