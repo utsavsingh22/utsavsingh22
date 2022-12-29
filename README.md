@@ -21,6 +21,7 @@
 <a href="https://twitter.com/iutsavsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iutsavsingh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/utsav-singh-b060761a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utsav-singh-b060761a7/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/utsavsingh62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/utsavsingh62" height="30" width="40" /></a>
+<a href="https://www.youtube.com/watch?v=jPDir1m7CT4&t=30s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/watch?v=jPDir1m7CT4&t=30s" height="30" width="40" /></a>  
 </p>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
