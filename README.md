@@ -13,6 +13,14 @@
 
 - 📫 How to reach me **utsavsingh62@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/iutsavsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iutsavsingh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/utsav-singh-b060761a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utsav-singh-b060761a7" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/iutsavsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iutsavsingh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/utsavsingh62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utsavsingh62" height="30" width="40" /></a>
+</p>
+
 
 
 
