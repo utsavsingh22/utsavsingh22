@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/iutsavsingh" target="blank"><img src="https://img.shields.io/twitter/follow/iutsavsingh?logo=twitter&style=for-the-badge" alt="iutsavsingh" /></a> </p>
 
 
-- 👨‍💻 My Portfolio [https://utsavsingh62.github.io/utsavsingh/](https://utsavsingh22.github.io/utsavsingh/)
+- 👨‍💻 My Portfolio [utsavsingh22](https://utsavsingh22.github.io/utsavsingh/)
 
 **[View my 2nd Portfolio made using CRA and deployed using Netlify](https://eager-tesla-7c5546.netlify.app/)**
 
